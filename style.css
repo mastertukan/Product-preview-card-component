@@ -109,6 +109,11 @@ h1 {
     margin-right: 11px;
 }
 
+.attribution {
+    position: absolute;
+    top: 2rem;
+}
+
 @media only screen and (max-width: 650px) {
     /* For mobile: */
     .container {
